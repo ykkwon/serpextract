@@ -738,7 +738,8 @@
         "q"
       ],
       "urls": [
-        "search.daum.net"
+        "search.daum.net",
+        "m.search.daum.net"
       ]
     }
   ],
@@ -2256,7 +2257,8 @@
         "query"
       ],
       "urls": [
-        "search.naver.com"
+        "search.naver.com",
+        "m.search.naver.com"
       ]
     }
   ],
